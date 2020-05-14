@@ -1,4 +1,4 @@
-# Loowatt---UK-GEN-2.0
+# Loowatt-UK-GEN-2.0
 
 -----Changes in Version 3 of FrontEnd PCB-----
 
