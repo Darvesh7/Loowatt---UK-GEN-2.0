@@ -23,7 +23,7 @@
 
  1. Terminal Block shifted slightly inwards.
  2. Added extra board support for M3 screws to fit-in.
- 3. Change the distance betwwen the front two mounting hole to 84mm.
+ 3. Change the distance between the front two mounting hole to 84mm.
  
  
  -----***Changes in PowerMotor PCB***-----
