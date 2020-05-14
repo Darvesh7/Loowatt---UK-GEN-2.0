@@ -26,7 +26,7 @@
  3. Change the distance betwwen the front two mounting hole to 84mm.
  
  
- -----Changes in PowerMotor PCB-----
+ -----***Changes in PowerMotor PCB***-----
  
   1. It now consist of two PCBs which work together as a daughter board and a main board.
   2. The daughter board is a DC/DC Buck Boost Converter having header pins with plugs into the main board.
