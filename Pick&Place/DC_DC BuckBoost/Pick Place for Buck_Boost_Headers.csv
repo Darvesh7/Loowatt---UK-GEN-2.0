@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Users\Darvesh\OneDrive\Altium\Altium\Buck_Boost_header\Project Outputs for Free Documents\Pick Place\Pick Place for Buck_Boost_Headers.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/10/20
+Time:       14:17
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P9","Header 2X2","TopLayer","HDR2X2","115.000","1945.000","90","Header, 2-Pin, Dual row"
+"P8","Header 2X2","TopLayer","HDR2X2","3040.000","332.116","90","Header, 2-Pin, Dual row"
+"P4","Header 2X2","TopLayer","HDR2X2","2820.000","1230.000","90","Header, 2-Pin, Dual row"
+"P6","Header 2X2","TopLayer","HDR2X2","2820.000","860.000","90","Header, 2-Pin, Dual row"
+"P2","Header 2X2","TopLayer","HDR2X2","3040.000","1765.000","90","Header, 2-Pin, Dual row"
+"P10","Header 2X2","TopLayer","HDR2X2","115.000","120.000","90","Header, 2-Pin, Dual row"
+"L1","7443631000","TopLayer","WE-HCF-2013","2025.354","1035.000","0","SMD High Current Inductor WE-HCF, L=10.0 µH"
+"U1","LT8390EUFD#PBF","TopLayer","SOP65P640X120-29N","410.915","867.234","270",""
+"R17","ERA6AEB222V","TopLayer","RESC2013X60X40ML20T25","449.341","382.598","90",""
+"R15","ERJ-6GEY0R00V","TopLayer","RESC2013X70X40ML20T20","679.341","380.000","90","Chip Resistor, 0 Ohm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R14","ERA6AEB104V","TopLayer","RESC2013X60X40ML20T25","565.000","380.000","90",""
+"R13","ERJ-6GEY0R00V","TopLayer","RESC2013X70X40ML20T20","140.000","805.000","90","Chip Resistor, 0 Ohm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R12","ERJ-6GEY0R00V","TopLayer","RESC2013X70X40ML20T20","793.681","380.000","270","Chip Resistor, 0 Ohm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R11","CRCW0805390RFKEA","TopLayer","RESC2013X50X30ML20T20","265.000","605.000","270",""
+"R10","ERJ-6GEY0R00V","TopLayer","RESC2013X70X40ML20T20","180.000","375.000","270","Chip Resistor, 0 Ohm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R9","ERJ-6GEY0R00V","TopLayer","RESC2013X70X40ML20T20","65.000","375.000","270","Chip Resistor, 0 Ohm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R8","ERJ-6ENF8251V","TopLayer","RESC2013X70X40ML20T20","100.256","1240.000","270",""
+"R7","ERA-6AEB103V","TopLayer","RESC2013X60X40ML20T25_A","212.628","1240.000","90","Metal Film Chip Resistor, High Reliability Type, 0.125 W, +/- 0.1%, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R6","ERJ-MS4SF4M0U","TopLayer","RESC6432X135N","1340.000","1295.000","360","Resistor"
+"R5","ERJ-6GEYJ333V","TopLayer","RESC2013X70X40ML20T20","385.000","1455.000","360",""
+"R4","ERJ-6ENF1693V","TopLayer","RESC2013X70X40ML20T20","385.000","1569.341","360",""
+"R3","ERJ-6GEYJ133V","TopLayer","RESC2013X70X40ML20T20","450.000","156.614","90",""
+"R2","ERJ-6ENF1503V","TopLayer","RESC2013X70X40ML20T20","565.000","153.386","270","RES SMD 150K OHM 1% 1/8W 0805"
+"R1","ERJ-MS4HF10MU","TopLayer","RESC6432X135N","1525.000","325.000","90","Resistor"
+"Q4","BSC027N04LS G","TopLayer","INF-PG-TDSON-8-1_V","1209.390","885.000","270","N-Channel OptiMOS 3 Power-Transistor, 40 V VDS, 100 A ID, -55 to 150 degC, PG-TDSON-8-1, Reel, Green"
+"Q3","BSC027N04LS G","TopLayer","INF-PG-TDSON-8-1_V","955.000","1379.390","0","N-Channel OptiMOS 3 Power-Transistor, 40 V VDS, 100 A ID, -55 to 150 degC, PG-TDSON-8-1, Reel, Green"
+"Q2","BSC027N04LS G","TopLayer","INF-PG-TDSON-8-1_V","955.000","1740.610","0","N-Channel OptiMOS 3 Power-Transistor, 40 V VDS, 100 A ID, -55 to 150 degC, PG-TDSON-8-1, Reel, Green"
+"Q1","BSC027N04LS G","TopLayer","INF-PG-TDSON-8-1_V","1240.000","535.610","180","N-Channel OptiMOS 3 Power-Transistor, 40 V VDS, 100 A ID, -55 to 150 degC, PG-TDSON-8-1, Reel, Green"
+"P7","Header 2X2","TopLayer","HDR2X2","3040.000","550.000","90","Header, 2-Pin, Dual row"
+"P5","Header 2X2","TopLayer","HDR2X2","3040.000","860.000","90","Header, 2-Pin, Dual row"
+"P3","Header 2X2","TopLayer","HDR2X2","3040.000","1230.000","90","Header, 2-Pin, Dual row"
+"P1","Header 2X2","TopLayer","HDR2X2","3040.000","1545.000","90","Header, 2-Pin, Dual row"
+"D1","Red, 2V","TopLayer","WL-SMCW_0805","88.661","1070.000","360","WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Red, 2V, 140deg"
+"C19","08055C103JAT2A","TopLayer","CAPC2013X94X50ML20T25","335.000","378.583","90",""
+"C18","08055C104JAT2A","TopLayer","CAPC2013X94X50ML20T25","281.112","150.000","90","Chip Capacitor, 0.1 uF, +/- 5%, 50 V, -55 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"C17","12101C105KAT2A","TopLayer","CAPC3325X279X50LL40T25","970.000","445.000","90","Chip Capacitor, 1 uF, +/- 10%, 100 V, -55 to 125 degC, 1210 (3225 Metric), RoHS, Tape and Reel"
+"C16","DNF","TopLayer","CAPC2013X94X50ML20T25","110.226","612.195","180","Chip Capacitor, 0.1 uF, +/- 5%, 50 V, -55 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"C15","08055C474JAT2A","TopLayer","CAPC2013X140X50ML20T25","325.000","1240.000","90",""
+"C14","0805ZD475KAT2A","TopLayer","CAPC2013X140X50ML20T25","450.000","1239.567","270",""
+"C13","08055C104JAT2A","TopLayer","CAPC2013X94X50ML20T25","735.000","610.000","90","Chip Capacitor, 0.1 uF, +/- 5%, 50 V, -55 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"C12","08055C104JAT2A","TopLayer","CAPC2013X94X50ML20T25","730.000","1153.583","270","Chip Capacitor, 0.1 uF, +/- 5%, 50 V, -55 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"C11","12101C105KAT2A","TopLayer","CAPC3325X279X50ML40T25","635.000","1765.827","90","Chip Capacitor, 1 uF, +/- 10%, 100 V, -55 to 125 degC, 1210 (3225 Metric), RoHS, Tape and Reel"
+"C10","CGA6M3X7S2A475K200AB","TopLayer","CAPC3225X220X20LL40","1120.000","145.000","90","Chip Capacitor, 4.7 uF, +/- 10%, 100 V, -55 to 125 degC, 1210 (3225 Metric), RoHS, Tape and Reel"
+"C9","CGA6M3X7S2A475K200AB","TopLayer","CAPC3225X220X20LL40","1295.000","145.000","90","Chip Capacitor, 4.7 uF, +/- 10%, 100 V, -55 to 125 degC, 1210 (3225 Metric), RoHS, Tape and Reel"
+"C8","CGA6M3X7S2A475K200AB","TopLayer","CAPC3225X220X20LL40","1370.000","1845.000","270","Chip Capacitor, 4.7 uF, +/- 10%, 100 V, -55 to 125 degC, 1210 (3225 Metric), RoHS, Tape and Reel"
+"C7","CGA6M3X7S2A475K200AB","TopLayer","CAPC3225X220X20LL40","1205.000","1845.000","270","Chip Capacitor, 4.7 uF, +/- 10%, 100 V, -55 to 125 degC, 1210 (3225 Metric), RoHS, Tape and Reel"
+"C6","EEEFK1J470P","TopLayer","PNSC-FK-V-F_V","1862.884","280.000","270","Aluminum Electrolytic Capacitor, 47 uF, +/- 20%, 63 V, 2-Pin SMD (Size Code F), -55 to 105 degC, RoHS, Tape and Reel"
+"C5","EEEFK1J470P","TopLayer","PNSC-FK-V-F_V","2300.000","280.236","270","Aluminum Electrolytic Capacitor, 47 uF, +/- 20%, 63 V, 2-Pin SMD (Size Code F), -55 to 105 degC, RoHS, Tape and Reel"
+"C4","EEEFK1J470P","TopLayer","PNSC-FK-V-F_V","2725.000","280.000","270","Aluminum Electrolytic Capacitor, 47 uF, +/- 20%, 63 V, 2-Pin SMD (Size Code F), -55 to 105 degC, RoHS, Tape and Reel"
+"C3","EEEFK1J470P","TopLayer","PNSC-FK-V-F_V","1660.000","1760.236","90","Aluminum Electrolytic Capacitor, 47 uF, +/- 20%, 63 V, 2-Pin SMD (Size Code F), -55 to 105 degC, RoHS, Tape and Reel"
+"C2","EEEFK1J470P","TopLayer","PNSC-FK-V-F_V","2110.000","1755.000","90","Aluminum Electrolytic Capacitor, 47 uF, +/- 20%, 63 V, 2-Pin SMD (Size Code F), -55 to 105 degC, RoHS, Tape and Reel"
+"C1","EEEFK1J470P","TopLayer","PNSC-FK-V-F_V","2560.000","1755.236","90","Aluminum Electrolytic Capacitor, 47 uF, +/- 20%, 63 V, 2-Pin SMD (Size Code F), -55 to 105 degC, RoHS, Tape and Reel"
