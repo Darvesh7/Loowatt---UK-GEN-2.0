@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\Users\Darvesh\OneDrive\Altium\Altium\Power_Distribution\Project Outputs for Power_Distribution\Pick Place\Pick Place for Power_Distribution_PCB.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       30/09/20,,,,,,,
+Time:       15:02,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+J3,43650-0200,TopLayer,43650-0200,12.447,27.94,270,Connector
+J2,1991095,TopLayer,SHDR4W80P820X500_2X2_1140X1350X1440P,35.088,34.25,90,Connector
+J1,1991095,TopLayer,SHDR4W80P820X500_2X2_1140X1350X1440P,35.016,19.852,90,Connector

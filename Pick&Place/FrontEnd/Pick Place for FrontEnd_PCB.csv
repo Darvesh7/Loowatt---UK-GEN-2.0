@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+C:\Users\Darvesh\OneDrive\Altium\Altium\FrontEnd\FrontEnd\Project Outputs for Free Documents\Pick Place\Pick Place for FrontEnd_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/10/20
+Time:       13:52
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C18","C0805C104K5RACTU","BottomLayer","CAPC2013X88X50ML20T25","3515.000","2570.659","180",""
+"C17","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50ML20T25","3515.000","2685.000","180",""
+"C16","C0805C104K5RACTU","BottomLayer","CAPC2013X88X50ML20T25","1125.000","4105.000","90",""
+"C15","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50ML20T25","1250.000","4105.433","90",""
+"C14","C0805C104K5RACTU","BottomLayer","CAPC2013X88X50ML20T25","2685.000","965.659","180",""
+"C13","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50ML20T25","2685.000","1080.000","180",""
+"C12","C0805C104K5RACTU","BottomLayer","CAPC2013X88X50ML20T25","1130.000","3370.000","90",""
+"C11","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50ML20T25","1255.000","3365.000","90",""
+"C10","C0805C104K5RACTU","BottomLayer","CAPC2013X88X50ML20T25","2105.433","2819.341","180",""
+"C9","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50ML20T25","2105.000","2705.000","180",""
+"U3","FOD817ASD","BottomLayer","FAIR-MDIP-4_V","2915.000","4760.000","180","Phototransistor Optocoupler, 4 us Rise, 3 us Fall, 5000 Vrms, -55 to 110 degC, 4-Pin MDIP, RoHS, Tape and Reel"
+"U4","FOD817ASD","BottomLayer","FAIR-MDIP-4_V","1675.000","995.000","270","Phototransistor Optocoupler, 4 us Rise, 3 us Fall, 5000 Vrms, -55 to 110 degC, 4-Pin MDIP, RoHS, Tape and Reel"
+"U2","MCP1700T-3302E/TT","BottomLayer","SOT-23-TT3_N","1007.598","2940.000","360","Low Quiescent Current LDO, 3-Pin SOT-23, Extended Temperature, Tape and Reel"
+"U1","PCA9615DPJ","BottomLayer","NXP-TSSOP-10_L","2500.000","4185.000","360","2-Channel Multipoint Fast-Mode Plus Differential I2C-Bus Buffer with Hot-Swap Logic, 16 uA, 2.3 to 5.5 V, -40 to 85 degC, 10-Pin TSSOP, RoHS, Tape and Reel"
+"R12","CRCW0805390RFKEA","BottomLayer","RESC2013X50X30NL20T20","1915.000","1180.000","180",""
+"R11","CRCW0805390RFKEA","BottomLayer","RESC2013X50X30NL20T20","1915.000","1000.000","180",""
+"R10","CRCW0805390RFKEA","BottomLayer","RESC2013X50X30NL20T20","3290.000","4771.417","90",""
+"R9","CRCW0805390RFKEA","BottomLayer","RESC2013X50X30NL20T20","2535.000","4776.417","90",""
+"R8","CRCW0805390RFKEA","BottomLayer","RESC2013X50X30ML20T20","3220.000","4365.000","270",""
+"R7","CRCW0805390RFKEA","BottomLayer","RESC2013X50X30ML20T20","3220.000","4049.646","270",""
+"R6","CRCW0805100RFKEA","BottomLayer","RESC2013X50X30ML20T20","3030.000","4050.000","90",""
+"R5","CRCW0805100RFKEA","BottomLayer","RESC2013X50X30ML20T20","3030.000","4365.000","90",""
+"R4","ERA6AEB472V","BottomLayer","RESC2013X60X40ML20T25","2772.402","3025.000","180",""
+"R3","ERA6AEB472V","BottomLayer","RESC2013X60X40ML20T25","2772.598","3220.000","180",""
+"R2","CRCW0805390RFKEA","BottomLayer","RESC2013X50X30ML20T20","2860.000","4050.000","90",""
+"R1","CRCW0805390RFKEA","BottomLayer","RESC2013X50X30ML20T20","2865.000","4365.000","270",""
+"IC2","MC78M05CDTRKG","BottomLayer","ON_Semi_369C_0","311.339","4210.000","270","Integrated Circuit"
+"F1","1812L050/30PR","BottomLayer","LFUS-1812L05030PR_V","820.000","4750.000","360","PTC Resettable Fuse, 0.8 W, 30 V, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"D2","LSM115JE3/TR13","BottomLayer","MCSM-DO-214BA-2_M","3257.028","2935.000","360","Ultra Low Forward Voltage Schottky Rectifier, 15 V, -55 to 100 degC, 2-Pin Molded, RoHS, Tape and Reel"
+"D1","LSM115JE3/TR13","BottomLayer","MCSM-DO-214BA-2_M","860.000","3640.001","270","Ultra Low Forward Voltage Schottky Rectifier, 15 V, -55 to 100 degC, 2-Pin Molded, RoHS, Tape and Reel"
+"C8","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50LL20T25","795.000","2945.000","90",""
+"C7","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50LL20T25","1205.000","2940.000","90",""
+"C6","UMK107BJ105KA-T","BottomLayer","CAPC1608X90X35ML10T25","605.000","4070.000","90","Chip Capacitor, 1 uF, +/- 10%, 50 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"C5","UMK107BJ105KA-T","BottomLayer","CAPC1608X90X35ML10T25","610.000","4348.426","270","Chip Capacitor, 1 uF, +/- 10%, 50 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"C4","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50ML20T25","2090.000","3870.000","270",""
+"C3","C0805C104K5RACTU","BottomLayer","CAPC2013X88X50ML20T25","2230.000","3870.000","270",""
+"C2","C0805C105K3RACTU","BottomLayer","CAPC2013X140X50ML20T25","2584.998","3869.569","90",""
+"C1","C0805C104K5RACTU","BottomLayer","CAPC2013X88X50ML20T25","2725.000","3869.567","90",""
+"IC1","Arduino Nano 33 IoT","BottomLayer","Nano_33_IoT","2760.000","2117.500","360","Arduino Nano 33 IoT"
+"UP","B3F-4055","TopLayer","OMRON-B3F-4055_V","531.574","2083.937","270","Tactile Switch, 1 to 50 mA, 100 mOhm Max, 5 to 24 VDC, -25 to 70 degC, 4-Pin THD, RoHS, Bulk"
+"MODE","B3F-4055","TopLayer","OMRON-B3F-4055_V","533.739","1188.937","270","Tactile Switch, 1 to 50 mA, 100 mOhm Max, 5 to 24 VDC, -25 to 70 degC, 4-Pin THD, RoHS, Bulk"
+"SELECT","B3F-4055","TopLayer","OMRON-B3F-4055_V","3205.000","1190.001","270","Tactile Switch, 1 to 50 mA, 100 mOhm Max, 5 to 24 VDC, -25 to 70 degC, 4-Pin THD, RoHS, Bulk"
+"LS1","Speak_CUI_CEM-1203_42_eec","BottomLayer","CUI_CEM-1203_42_0","1740.000","325.000","180","SPEAK Zero-Peak Signal Buzzer Single Tone 2.048kHz Magnetic 3 ~ 5V 85dB @ 3.5V, 10cm"
+"J4","43650-0200","BottomLayer","43650-0200","1160.944","5409.961","180","Connector"
+"J3","691401700002B","BottomLayer","691401700002B","598.425","5330.000","0","WR-TBL Serie 401B Vertical Entry, Screwless, pitch 5mm, 2p"
+"J2","691401700004B","BottomLayer","691401700004B","3049.724","5335.000","0","WR-TBL Serie 401B Vertical Entry, Screwless, pitch 5mm, 4p"
+"J1","615008143721","BottomLayer","615008143721","1870.000","5430.000","180","Modular Jack WR-MJ, Tab Down, Plastic, Horizontal Entry, THT, 8P8C"
+"DS1","NHD-C12864A1Z-FSB-FBW-HTT","TopLayer","NHDC12864A1ZFSBFBWHTT","1870.000","3146.575","360","Display"
+"DOWN","B3F-4055","TopLayer","OMRON-B3F-4055_V","536.574","288.937","270","Tactile Switch, 1 to 50 mA, 100 mOhm Max, 5 to 24 VDC, -25 to 70 degC, 4-Pin THD, RoHS, Bulk"

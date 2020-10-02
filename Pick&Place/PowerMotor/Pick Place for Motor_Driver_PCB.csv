@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Users\Darvesh\OneDrive\Altium\Altium\Motor_Driver\Project Outputs for Free Documents\Pick Place\Pick Place for Motor_Driver_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/10/20
+Time:       14:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","VNH7070ASTR","TopLayer","STM-SO-16N_L","4670.000","2045.000","0","Automotive Fully Integrated H-Bridge Motor Driver, 15 A, 4 to 28 V, -40 to 150 degC, 16-Pin SOIC, RoHS, Tape and Reel"
+"J2","1991095","TopLayer","SHDR4W80P820X500_2X2_1140X1350X1440P","5401.417","2061.575","270","Connector"
+"J1","1991095","TopLayer","SHDR4W80P820X500_2X2_1140X1350X1440P","3886.417","2061.575","270","Connector"
+"R7","ERJ-6ENF1501V","TopLayer","RESC2013X70X40ML20T20","5290.000","1415.000","90",""
+"R6","ERA-6AEB103V","TopLayer","RESC2013X60X40ML20T25_A","5167.372","1415.000","90","Metal Film Chip Resistor, High Reliability Type, 0.125 W, +/- 0.1%, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R5","ERA6AEB102V","TopLayer","RESC2013X60X40ML20T25","5600.000","1385.000","270",""
+"R4","ERA6AEB102V","TopLayer","RESC2013X60X40ML20T25","4935.000","1415.000","90",""
+"R3","ERA6AEB102V","TopLayer","RESC2013X60X40ML20T25","4815.000","1414.508","90",""
+"R2","ERA6AEB102V","TopLayer","RESC2013X60X40ML20T25","4695.000","1414.508","90",""
+"R1","ERA6AEB102V","TopLayer","RESC2013X60X40ML20T25","5415.000","1415.000","90",""
+"P11","43045-0812","TopLayer","MOLX-43045-0812_V","4882.835","1112.559","180","3 mm Pitch Micro-Fit 3.0 Connector, 17.27 mm Mated Height, Vertical, Through Hole, 8 Circuits, -40 to 105 degC, RoHS, Tray"
+"D2","Green, 3.2V","TopLayer","WL-SMCW_0805","5495.000","1130.000","90","WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Green, 3.2V, 140deg"
+"D1","Blue, 3.2V","TopLayer","WL-SMCW_0805","5610.000","1131.339","90","WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Blue, 3.2V, 140deg"
+"C1","CAP 33nF 50V 0805(2012)","TopLayer","CAPC0805(2012)100_M","5055.000","1415.000","90","CAP 33nF 50V ±5% 0805 (2012 Metric) Thickness 1mm SMD"
+"P10","Header 2X2","TopLayer","HDR2X2","520.000","610.000","90","Header, 2-Pin, Dual row"
+"P9","Header 2X2","TopLayer","HDR2X2","520.000","2435.000","90","Header, 2-Pin, Dual row"
+"P8","Header 2X2","TopLayer","HDR2X2","3425.000","820.000","90","Header, 2-Pin, Dual row"
+"P7","Header 2X2","TopLayer","HDR2X2","3425.000","1040.000","270","Header, 2-Pin, Dual row"
+"P6","Header 2X2","TopLayer","HDR2X2","3208.287","1350.000","90","Header, 2-Pin, Dual row"
+"P5","Header 2X2","TopLayer","HDR2X2","3426.171","1350.000","90","Header, 2-Pin, Dual row"
+"P4","Header 2X2","TopLayer","HDR2X2","3208.287","1720.000","90","Header, 2-Pin, Dual row"
+"P3","Header 2X2","TopLayer","HDR2X2","3426.171","1720.000","90","Header, 2-Pin, Dual row"
+"P2","Header 2X2","TopLayer","HDR2X2","3425.000","2255.000","90","Header, 2-Pin, Dual row"
+"P1","Header 2X2","TopLayer","HDR2X2","3426.171","2035.000","90","Header, 2-Pin, Dual row"

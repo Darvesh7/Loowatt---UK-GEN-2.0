@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\Darvesh\OneDrive\Altium\Altium\BackEnd REV 3\BackEnd REV 3\Project Outputs for Free Documents\Pick Place\Pick Place for BackEnd_PCB_REV3.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/10/20
+Time:       14:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","PCA9615DPJ","TopLayer","NXP-TSSOP-10_L","1400.000","1830.000","180","2-Channel Multipoint Fast-Mode Plus Differential I2C-Bus Buffer with Hot-Swap Logic, 16 uA, 2.3 to 5.5 V, -40 to 85 degC, 10-Pin TSSOP, RoHS, Tape and Reel"
+"R12","ERJ-6ENF4701V","TopLayer","RESC2013X70X40ML20T20","3620.000","1798.386","90","Chip Resistor, 4.7 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R11","ERJ-6ENF4701V","TopLayer","RESC2013X70X40ML20T20","3485.000","1800.000","90","Chip Resistor, 4.7 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R9","ERJ-6ENF4701V","TopLayer","RESC2013X70X40ML20T20","2965.000","2586.614","90","Chip Resistor, 4.7 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R8","ERJ-6ENF4701V","TopLayer","RESC2013X70X40ML20T20","2395.000","2591.614","90","Chip Resistor, 4.7 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"D1","LSM115JE3/TR13","TopLayer","MCSM-DO-214BA-2_M","4414.056","1500.000","360","Ultra Low Forward Voltage Schottky Rectifier, 15 V, -55 to 100 degC, 2-Pin Molded, RoHS, Tape and Reel"
+"C9","0805YD475KAT2A","TopLayer","CAPC2013X140X50ML20T25","2649.744","2590.001","270",""
+"C7","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","3200.000","2589.566","90",""
+"J2","TSM-106-02-T-SV","TopLayer","TSM10602TSV","2910.000","1687.480","180","Connector"
+"F1","0ZCF0030FF2C","TopLayer","FUSC7451X115N","5390.000","1000.000","270","Fuse"
+"IC1","ABX00028","TopLayer","ABX00028","4805.000","2459.330","360","Integrated Circuit"
+"C3","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","1670.000","1450.000","90",""
+"C13","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","4790.000","944.999","90",""
+"C12","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","4275.434","1270.000","360",""
+"R7","ERA6AEB391V","TopLayer","RESC2013X60X40ML20T25","1290.000","1445.000","90",""
+"R6","ERA6AEB391V","TopLayer","RESC2013X60X40ML20T25","990.000","1914.744","360",""
+"R5","RC0805FR-07100RL","TopLayer","RESC2013X60X35ML10T20","1165.000","1440.000","270","Chip Resistor, 100 Ohm, +/-1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R4","RC0805FR-07100RL","TopLayer","RESC2013X60X35ML10T20","990.472","1802.372","180","Chip Resistor, 100 Ohm, +/-1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R3","RC0805FR-071KL","TopLayer","RESC2013X60X35ML10T20","1920.000","2529.370","270","Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R2","ERJ-3EKF3900V","TopLayer","RESC1608X55X30ML15T15","1060.000","1440.000","90","Chip Resistor, 390 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R1","ERA6AEB391V","TopLayer","RESC2013X60X40ML20T25","990.000","1690.000","360",""
+"P1","43045-0812","TopLayer","MOLX-43045-0812_V","5062.834","1657.560","180","3 mm Pitch Micro-Fit 3.0 Connector, 17.27 mm Mated Height, Vertical, Through Hole, 8 Circuits, -40 to 105 degC, RoHS, Tray"
+"LED1","150141GS73100","BottomLayer","3528","1560.000","2510.000","90","SMD mono-color Top LED, WL-SMTW, Green"
+"J1","615008143721","TopLayer","615008143721","270.000","2340.000","90","Modular Jack WR-MJ, Tab Down, Plastic, Horizontal Entry, THT, 8P8C"
+"IC2","BD90C0AFP-CE2","TopLayer","BD90C0AFPCE2","4435.000","873.031","180","Integrated Circuit"
+"R10","CRCW0805390KFKEA","TopLayer","RESC2013X50X30ML20T20","2764.086","2590.000","270",""
+"C10","0805YD475KAT2A","TopLayer","CAPC2013X140X50ML20T25","2510.000","2594.566","90",""
+"C8","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","3085.000","2590.000","90",""
+"C6","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","3320.000","2590.000","90",""
+"C5","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","3445.000","2590.001","270",""
+"C4","GRM21BR71H104KA01L","TopLayer","CAPC2013X135X45ML10T25","1535.000","1447.598","90","Chip Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"1","UG-2864HSWEG01","TopLayer","1X30-0.7MM","2926.221","2324.360","180","0.96 128x64 White OLED"
